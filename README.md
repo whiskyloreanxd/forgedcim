@@ -4,7 +4,7 @@
 ## Ben Kimim
 
 ```js
-class Eqd {
+class Whisky {
   constructor(options) {
     this.name = "Whisky Lorean";
     this.sex = "man";
@@ -16,7 +16,7 @@ class Eqd {
   }
 }
 
-module.exports = Azap;
+module.exports = Whisky;
 ```
 
 <h1 align="center">Hi 👋, I'm Görkem</h1>
@@ -72,9 +72,6 @@ module.exports = Azap;
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
